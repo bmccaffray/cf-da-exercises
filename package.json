@@ -1,0 +1,19 @@
+{
+  "name": "cf-da-exercises",
+  "version": "1.0.0",
+  "description": "Exercises from the JavaScript Data-Structure and Algorithms book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmccaffray/cf-da-exercises.git"
+  },
+  "author": "brett mccaffray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmccaffray/cf-da-exercises/issues"
+  },
+  "homepage": "https://github.com/bmccaffray/cf-da-exercises"
+}
